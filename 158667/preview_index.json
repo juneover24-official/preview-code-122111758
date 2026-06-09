@@ -1,7 +1,7 @@
 {
   "qq_number": "122111758",
   "group_number": "158667",
-  "updated_at": "2026-06-09T03:50:28+00:00",
+  "updated_at": "2026-06-09T03:50:58+00:00",
   "skins": [
     {
       "name": "吃豆人",
@@ -26,6 +26,12 @@
       "file": "金榜题名-iOS.bdi",
       "thumb": "金榜题名-iOS.bdi_py_26_light_thumb.png",
       "full": "金榜题名-iOS.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "金榜题名",
+      "file": "金榜题名-安卓.bds",
+      "thumb": "金榜题名-安卓.bds_py_26_light_thumb.png",
+      "full": "金榜题名-安卓.bds_py_26_light_thumb.png"
     }
   ]
 }
