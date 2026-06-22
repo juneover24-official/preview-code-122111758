@@ -1,7 +1,7 @@
 {
   "qq_number": "122111758",
   "group_number": "158667",
-  "updated_at": "2026-06-20T08:36:41+00:00",
+  "updated_at": "2026-06-22T14:41:11+00:00",
   "skins": [
     {
       "name": "吃豆人",
@@ -62,6 +62,12 @@
       "file": "花开勿忘微兮.bds",
       "thumb": "花开勿忘微兮.bds_py_26_light_thumb.png",
       "full": "花开勿忘微兮.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "旧粉时光-无漂浮",
+      "file": "旧粉时光安卓-无漂浮.bds",
+      "thumb": "旧粉时光安卓-无漂浮.bds_py_26_light_thumb.png",
+      "full": "旧粉时光安卓-无漂浮.bds_py_26_light_thumb.png"
     }
   ]
 }
