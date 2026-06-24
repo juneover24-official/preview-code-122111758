@@ -1,19 +1,13 @@
 {
   "qq_number": "122111758",
   "group_number": "158667",
-  "updated_at": "2026-06-24T14:16:12+00:00",
+  "updated_at": "2026-06-24T14:16:30+00:00",
   "skins": [
     {
       "name": "金榜题名-iOS-Pro",
       "file": "金榜题名-iOS-Pro.bdi",
       "thumb": "金榜题名-iOS-Pro.bdi_py_26_light_thumb.png",
       "full": "金榜题名-iOS-Pro.bdi_py_26_light_thumb.png"
-    },
-    {
-      "name": "24H咖啡店-iOS",
-      "file": "24H咖啡店-iOS.bdi",
-      "thumb": "24H咖啡店-iOS.bdi_py_26_light_thumb.png",
-      "full": "24H咖啡店-iOS.bdi_py_26_light_thumb.png"
     },
     {
       "name": "花开勿忘微兮",
