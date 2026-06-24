@@ -1,7 +1,7 @@
 {
   "qq_number": "122111758",
   "group_number": "158667",
-  "updated_at": "2026-06-24T07:18:25+00:00",
+  "updated_at": "2026-06-24T07:18:37+00:00",
   "skins": [
     {
       "name": "吃豆人",
@@ -80,6 +80,12 @@
       "file": "植物手札-iOS-无背景.bdi",
       "thumb": "植物手札-iOS-无背景.bdi_py_26_light_thumb.png",
       "full": "植物手札-iOS-无背景.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "植物手札",
+      "file": "植物手札-安卓.bds",
+      "thumb": "植物手札-安卓.bds_py_26_light_thumb.png",
+      "full": "植物手札-安卓.bds_py_26_light_thumb.png"
     }
   ]
 }
