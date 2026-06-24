@@ -1,7 +1,7 @@
 {
   "qq_number": "122111758",
   "group_number": "158667",
-  "updated_at": "2026-06-24T15:02:28+00:00",
+  "updated_at": "2026-06-24T15:40:49+00:00",
   "skins": [
     {
       "name": "金榜题名-iOS-Pro",
@@ -86,6 +86,12 @@
       "file": "双狩-安卓.bds",
       "thumb": "双狩-安卓.bds_py_26_light_thumb.png",
       "full": "双狩-安卓.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "24H咖啡店",
+      "file": "24H咖啡店-安卓.bds",
+      "thumb": "24H咖啡店-安卓.bds_py_26_light_thumb.png",
+      "full": "24H咖啡店-安卓.bds_py_26_light_thumb.png"
     }
   ]
 }
