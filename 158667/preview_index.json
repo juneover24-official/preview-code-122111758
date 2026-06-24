@@ -1,7 +1,7 @@
 {
   "qq_number": "122111758",
   "group_number": "158667",
-  "updated_at": "2026-06-24T15:02:16+00:00",
+  "updated_at": "2026-06-24T15:02:28+00:00",
   "skins": [
     {
       "name": "金榜题名-iOS-Pro",
@@ -80,6 +80,12 @@
       "file": "双狩-iOS.bdi",
       "thumb": "双狩-iOS.bdi_py_26_light_thumb.png",
       "full": "双狩-iOS.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "双狩",
+      "file": "双狩-安卓.bds",
+      "thumb": "双狩-安卓.bds_py_26_light_thumb.png",
+      "full": "双狩-安卓.bds_py_26_light_thumb.png"
     }
   ]
 }
