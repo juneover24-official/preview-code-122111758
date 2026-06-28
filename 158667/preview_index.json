@@ -1,7 +1,7 @@
 {
   "qq_number": "122111758",
   "group_number": "158667",
-  "updated_at": "2026-06-28T16:14:33+00:00",
+  "updated_at": "2026-06-28T16:14:41+00:00",
   "skins": [
     {
       "name": "金榜题名-iOS-Pro",
@@ -116,12 +116,6 @@
       "file": "甜心Kitty安卓-闷闷.bds",
       "thumb": "甜心Kitty安卓-闷闷.bds_py_26_light_thumb.png",
       "full": "甜心Kitty安卓-闷闷.bds_py_26_light_thumb.png"
-    },
-    {
-      "name": "甜心KittyiOS-脆脆-无背景",
-      "file": "甜心KittyiOS-脆脆-无背景.bdi",
-      "thumb": "甜心KittyiOS-脆脆-无背景.bdi_py_26_light_thumb.png",
-      "full": "甜心KittyiOS-脆脆-无背景.bdi_py_26_light_thumb.png"
     },
     {
       "name": "甜心KittyiOS-脆脆",
