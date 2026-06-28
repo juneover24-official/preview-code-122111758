@@ -1,7 +1,7 @@
 {
   "qq_number": "122111758",
   "group_number": "158667",
-  "updated_at": "2026-06-28T12:13:29+00:00",
+  "updated_at": "2026-06-28T12:13:36+00:00",
   "skins": [
     {
       "name": "金榜题名-iOS-Pro",
@@ -32,12 +32,6 @@
       "file": "旧粉时光安卓.bds",
       "thumb": "旧粉时光安卓.bds_py_26_light_thumb.png",
       "full": "旧粉时光安卓.bds_py_26_light_thumb.png"
-    },
-    {
-      "name": "植物手札",
-      "file": "植物手札-安卓.bds",
-      "thumb": "植物手札-安卓.bds_py_26_light_thumb.png",
-      "full": "植物手札-安卓.bds_py_26_light_thumb.png"
     },
     {
       "name": "植物手札-iOS",
