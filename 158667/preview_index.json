@@ -1,7 +1,7 @@
 {
   "qq_number": "122111758",
   "group_number": "158667",
-  "updated_at": "2026-06-28T11:39:34+00:00",
+  "updated_at": "2026-06-28T12:13:13+00:00",
   "skins": [
     {
       "name": "金榜题名-iOS-Pro",
@@ -110,12 +110,6 @@
       "file": "甜心Kitty-iOS无背景.bdi",
       "thumb": "甜心Kitty-iOS无背景.bdi_py_26_light_thumb.png",
       "full": "甜心Kitty-iOS无背景.bdi_py_26_light_thumb.png"
-    },
-    {
-      "name": "寻花入镜",
-      "file": "寻花入镜安卓微兮.bds",
-      "thumb": "寻花入镜安卓微兮.bds_py_26_light_thumb.png",
-      "full": "寻花入镜安卓微兮.bds_py_26_light_thumb.png"
     },
     {
       "name": "寻花入境iOS微兮",
