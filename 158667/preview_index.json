@@ -1,7 +1,7 @@
 {
   "qq_number": "122111758",
   "group_number": "158667",
-  "updated_at": "2026-06-29T06:12:00+00:00",
+  "updated_at": "2026-06-29T06:12:06+00:00",
   "skins": [
     {
       "name": "金榜题名-iOS-Pro",
@@ -128,6 +128,12 @@
       "file": "香香草莓熊安卓-脆脆.bds",
       "thumb": "香香草莓熊安卓-脆脆.bds_py_26_light_thumb.png",
       "full": "香香草莓熊安卓-脆脆.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "香香草莓熊-闷闷",
+      "file": "香香草莓熊安卓-闷闷.bds",
+      "thumb": "香香草莓熊安卓-闷闷.bds_py_26_light_thumb.png",
+      "full": "香香草莓熊安卓-闷闷.bds_py_26_light_thumb.png"
     }
   ]
 }
