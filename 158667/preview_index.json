@@ -1,7 +1,7 @@
 {
   "qq_number": "122111758",
   "group_number": "158667",
-  "updated_at": "2026-07-01T06:01:16+00:00",
+  "updated_at": "2026-07-01T06:07:53+00:00",
   "skins": [
     {
       "name": "金榜题名-iOS-Pro",
@@ -164,12 +164,6 @@
       "file": "strawberryiOS-脆脆.bdi",
       "thumb": "strawberryiOS-脆脆.bdi_py_26_light_thumb.png",
       "full": "strawberryiOS-脆脆.bdi_py_26_light_thumb.png"
-    },
-    {
-      "name": "strawberry-闷闷",
-      "file": "strawberry安卓.bds",
-      "thumb": "strawberry安卓.bds_py_26_light_thumb.png",
-      "full": "strawberry安卓.bds_py_26_light_thumb.png"
     },
     {
       "name": "strawberryiOS-闷闷",
