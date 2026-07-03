@@ -1,6 +1,13 @@
 {
   "qq_number": "122111758",
   "group_number": "424593961",
-  "updated_at": "2026-07-03T09:35:45+00:00",
-  "skins": []
+  "updated_at": "2026-07-03T09:37:15+00:00",
+  "skins": [
+    {
+      "name": "24H咖啡店",
+      "file": "015咖啡店安卓.bds",
+      "thumb": "015咖啡店安卓.bds_py_26_light_thumb.png",
+      "full": "015咖啡店安卓.bds_py_26_light_thumb.png"
+    }
+  ]
 }
