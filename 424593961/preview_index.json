@@ -1,19 +1,13 @@
 {
   "qq_number": "122111758",
   "group_number": "424593961",
-  "updated_at": "2026-07-04T13:35:48+00:00",
+  "updated_at": "2026-07-05T11:14:58+00:00",
   "skins": [
     {
       "name": "24H咖啡店",
       "file": "015咖啡店安卓.bds",
       "thumb": "015咖啡店安卓.bds_py_26_light_thumb.png",
       "full": "015咖啡店安卓.bds_py_26_light_thumb.png"
-    },
-    {
-      "name": "015咖啡店苹果",
-      "file": "015咖啡店苹果.bdi",
-      "thumb": "015咖啡店苹果.bdi_py_26_light_thumb.png",
-      "full": "015咖啡店苹果.bdi_py_26_light_thumb.png"
     },
     {
       "name": "潋滟",
